@@ -1,0 +1,18 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspacesoft.stickers.cruzazul",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"carlosrodriguez1",
+         "name":"Carlos Rodriguez",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"eriklira1",
+         "name":"Erik Lira",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      }
+   ]
+}
