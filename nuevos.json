@@ -3,10 +3,10 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
-         "identifier":"animados3",
-         "name":"Animados 3",
-         "animated_sticker_pack":true,
-         "stickers":"9"
+         "identifier":"florkcruzazul",
+         "name":"Flork Cruz Azul",
+         "animated_sticker_pack":false,
+         "stickers":"22"
       },
       {
          "identifier":"angelsepulveda1",
