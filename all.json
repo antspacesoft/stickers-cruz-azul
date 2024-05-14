@@ -1,0 +1,390 @@
+{
+   "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.cruzazul",
+   "ios_app_store_link":"",
+   "sticker_packs":[
+      {
+         "identifier":"animados3",
+         "name":"Animados 3",
+         "animated_sticker_pack":true,
+         "stickers":"9"
+      },
+      {
+         "identifier":"angelsepulveda1",
+         "name":"Angel Sepulveda",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"clausura2024f10a",
+         "name":"vs Chivas (1)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"clausura2024f10b",
+         "name":"vs Chivas (2)",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"kit2324",
+         "name":"Jersey 23-24",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"plantel2024",
+         "name":"Plantel 2024",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"apertura2023f15",
+         "name":"vs Juarez",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"apertura2023f14",
+         "name":"vs Leon",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"apertura2023f10",
+         "name":"vs Atl San Luis",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"apertura2023f1",
+         "name":"vs Monterrey",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"leaguescup2023f2",
+         "name":"vs Atlanta Utd",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"clausura2023f17",
+         "name":"vs Santos Laguna",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"clausura2023f13",
+         "name":"vs Pachuca",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"clausura2023f12",
+         "name":"vs Atl. San Luis",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"clausura2023f11",
+         "name":"vs Pumas",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"clausura2023f9",
+         "name":"vs Juarez",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"clausura2023f7",
+         "name":"vs Atlas",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"clausura2023f8",
+         "name":"vs Puebla",
+         "animated_sticker_pack":false,
+         "stickers":"28"
+      },
+      {
+         "identifier":"copapormexico2022w1",
+         "name":"vs Chivas",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"copapormexico2022f5",
+         "name":"vs América",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"copapormexico2022f2",
+         "name":"vs Pumas",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"worldcup2022GCsaudiarabiavsmexico",
+         "name":"México vs Arabia Saudita",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022rodolfocota",
+         "name":"Rodolfo Cota",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022orbelinpineda",
+         "name":"Orbelin Pineda",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"worldcup2022luisromo",
+         "name":"Luis Romo",
+         "animated_sticker_pack":false,
+         "stickers":"13"
+      },
+      {
+         "identifier":"worldcup2022luischavez",
+         "name":"Luis Chavez",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"worldcup2022kevinalvarez",
+         "name":"Kevin Alvarez",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
+         "identifier":"worldcup2022jorgesanchez",
+         "name":"Jorge Sanchez",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022johanvazquez",
+         "name":"Johan Vazquez",
+         "animated_sticker_pack":false,
+         "stickers":"16"
+      },
+      {
+         "identifier":"worldcup2022jesusgallardo",
+         "name":"Jesus Gallardo",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"worldcup2022hirvinglozano2",
+         "name":"Hirving Lozano (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022hectormoreno",
+         "name":"Hector Moreno",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022hectorherrera",
+         "name":"Hector Herrera",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"worldcup2022gerardoarteaga",
+         "name":"Gerardo Arteaga",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"worldcup2022erickgutierrez",
+         "name":"Erick Gutierrez",
+         "animated_sticker_pack":false,
+         "stickers":"11"
+      },
+      {
+         "identifier":"worldcup2022edsonalvarez",
+         "name":"Edson Alvarez",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022cesarmontes",
+         "name":"Cesar Montes",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022alfredotalavera",
+         "name":"Alfredo Talavera",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"worldcup2022GCargentinavsmexico",
+         "name":"México vs Argentina",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022MEXgol",
+         "name":"México GOL",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"worldcup2022animados",
+         "name":"Gol Animados",
+         "animated_sticker_pack":true,
+         "stickers":"6"
+      },
+      {
+         "identifier":"worldcup2022GCmexicovspoland",
+         "name":"México vs Polonia",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022mexico",
+         "name":"México 2022 (1)",
+         "animated_sticker_pack":false,
+         "stickers":"19"
+      },
+      {
+         "identifier":"worldcup2022mexico2",
+         "name":"México 2022 (2)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022mexico3",
+         "name":"México 2022 (3)",
+         "animated_sticker_pack":false,
+         "stickers":"27"
+      },
+      {
+         "identifier":"worldcup2022urielantuna",
+         "name":"Uriel Altuna",
+         "animated_sticker_pack":false,
+         "stickers":"24"
+      },
+      {
+         "identifier":"worldcup2022carlosrodriguez",
+         "name":"Carlos Rodriguez",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"worldcup2022hirvinglozano",
+         "name":"Hirving Lozano",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"worldcup2022andresguardado",
+         "name":"Andres Guardado",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"worldcup2022rauljimenez",
+         "name":"Raul Jimenez",
+         "animated_sticker_pack":false,
+         "stickers":"12"
+      },
+      {
+         "identifier":"apertura2022o1",
+         "name":"vs Leon",
+         "animated_sticker_pack":false,
+         "stickers":"25"
+      },
+      {
+         "identifier":"apertura2022f17",
+         "name":"vs Chivas",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"apertura2022f15",
+         "name":"vs Pumas",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },
+      {
+         "identifier":"apertura2022f16",
+         "name":"vs Leon",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
+         "identifier":"eriklira1",
+         "name":"Erik Lira",
+         "animated_sticker_pack":false,
+         "stickers":"23"
+      },
+      {
+         "identifier":"apertura2022f11",
+         "name":"vs Queretaro",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },
+      {
+         "identifier":"carlosrodriguez1",
+         "name":"Carlos Rodriguez",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"apertura2022f6",
+         "name":"vs Necaxa",
+         "animated_sticker_pack":false,
+         "stickers":"29"
+      },
+      {
+         "identifier":"animados1",
+         "name":"Animados 1",
+         "animated_sticker_pack":true,
+         "stickers":"11"
+      },
+      {
+         "identifier":"animados2",
+         "name":"Animados 2",
+         "animated_sticker_pack":true,
+         "stickers":"10"
+      },
+      {
+         "identifier":"gol1",
+         "name":"Gol",
+         "animated_sticker_pack":false,
+         "stickers":"30"
+      },
+      {
+         "identifier":"emojis1",
+         "name":"Emojis 1",
+         "animated_sticker_pack":false,
+         "stickers":"10"
+      },
+      {
+         "identifier":"club1",
+         "name":"Club",
+         "animated_sticker_pack":false,
+         "stickers":"14"
+      },
+      {
+         "identifier":"diegoaguirre1",
+         "name":"Diego Aguirre",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      }
+   ]
+}
