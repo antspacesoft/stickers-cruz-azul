@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"apertura2024f12",
+         "name":"vs Puebla",
+         "animated_sticker_pack":false,
+         "stickers":"21"
+      },
+      {
+         "identifier":"kit2425",
+         "name":"Jersey 24-25",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"apertura2024f11",
          "name":"vs Necaxa",
          "animated_sticker_pack":false,
