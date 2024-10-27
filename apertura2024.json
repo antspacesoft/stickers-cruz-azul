@@ -3,6 +3,18 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"apertura2024f14a",
+         "name":"vs UNAM Pumas (1)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
+         "identifier":"apertura2024f14b",
+         "name":"vs UNAM Pumas (2)",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
+      {
          "identifier":"apertura2024f13",
          "name":"vs Juarez",
          "animated_sticker_pack":false,
