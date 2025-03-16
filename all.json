@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clausura2025f12",
+         "name":"vs Atl. San Luis",
+         "animated_sticker_pack":false,
+         "stickers":"18"
+      },
+      {
          "identifier":"championscup2025o2",
          "name":"vs Seattle Sounders",
          "animated_sticker_pack":false,
