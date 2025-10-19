@@ -3,6 +3,12 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"apertura2025f13",
+         "name":"vs América",
+         "animated_sticker_pack":false,
+         "stickers":"20"
+      },         
+      {
          "identifier":"apertura2025f10",
          "name":"vs Queretaro",
          "animated_sticker_pack":false,
