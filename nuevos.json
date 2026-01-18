@@ -2,6 +2,12 @@
    "android_play_store_link":"https://play.google.com/store/apps/details?id=com.antspace.stickers.cruzazul",
    "ios_app_store_link":"",
    "sticker_packs":[
+      {
+         "identifier":"clausura2026f3",
+         "name":"vs Puebla",
+         "animated_sticker_pack":false,
+         "stickers":"15"
+      },
        {
          "identifier":"clausura2026f2",
          "name":"vs Atlas",
