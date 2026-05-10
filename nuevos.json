@@ -3,11 +3,17 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"clausura2026c2",
+         "name":"vs Atlas (2)",
+         "animated_sticker_pack":false,
+         "stickers":"26"
+      },  
+      {
          "identifier":"clausura2026c1",
-         "name":"vs Atlas",
+         "name":"vs Atlas (1)",
          "animated_sticker_pack":false,
          "stickers":"24"
-      },
+      },  
       {
          "identifier":"diadeltrabajador",
          "name":"Dia del Trabajador",
