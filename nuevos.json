@@ -3,11 +3,17 @@
    "ios_app_store_link":"",
    "sticker_packs":[
       {
+         "identifier":"campeondecampeones2026",
+         "name":"Campeón de Campeones 2026",
+         "animated_sticker_pack":false,
+         "stickers":"17"
+      },
+      {
          "identifier":"apertura2026f2",
          "name":"vs Puebla",
          "animated_sticker_pack":false,
          "stickers":"15"
-      },
+      },      
       {
          "identifier":"apertura2026f1",
          "name":"vs San Luis",
